@@ -1,16 +1,4 @@
 # Cyphr
-/////////////////////////////////////////////////////////////
-//    Welcome to                                           //
-//             //////               //                     //
-//             //                   //                     //
-//             //     //  // ////// ////// // ///          //
-//             //     //  // //  // //  // ///             //
-//             ////// ////// ////// //  // ///             //
-//                        // //                            //
-//                      //// //                            //
-//                                                         //
-/////////////////////////////////////////////////////////////
-
 Cyphr is a Python based tool for Cryptography.
 Cyphr can Encrypt and Decrypt text in 5 different methods:
 - ROT13.
@@ -20,9 +8,4 @@ Cyphr can Encrypt and Decrypt text in 5 different methods:
 - Bacon Cipher.
 - more will be added soon! ^_^
 
-/////////////////////////////////////////////////////////////
-//                                                         //
-//              Thank you for using Cyphr ^_^              //
-//             Made by justSid404 - Me \(^_^)/             //
-//                                                         //
-/////////////////////////////////////////////////////////////
+Thank you for using Cyphr ^_^
